@@ -1624,7 +1624,7 @@ body,button,input,select,textarea,::placeholder{
     transform:translateX(50%)
 }
 .container-YkUktl:after{
-    content:"v7.2.2";
+    content:"v7.2.3";
     left:50%;
     text-align:left;
     opacity:0;
