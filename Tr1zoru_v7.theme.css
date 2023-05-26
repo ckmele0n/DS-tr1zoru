@@ -32,7 +32,7 @@
     --members-width: 240px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, .6);
-    --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+    --background-image: url(https://wallpaperaccess.com/full/2622687.jpg);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -614,7 +614,7 @@
     background:transparent
 }
 .container-YkUktl{
-    background:transparent
+    background:transparent !important
 }
 .bg-1QIAus{
     background:var(--background-image) var(--background-position)/var(--background-size) var(--background-repeat) var(--background-attachment);
